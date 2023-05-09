@@ -1,0 +1,38 @@
+2023-05-01T11:21:40+00:00 CRITICAL Uncaught Error: Call to undefined function getTheme_file_path() in C:\xampp\htdocs\saokim\wp-content\themes\goclamweb\includes\setup.php:6
+Stack trace:
+#0 C:\xampp\htdocs\saokim\wp-includes\class-wp-hook.php(308): glw_theme_setup('')
+#1 C:\xampp\htdocs\saokim\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\saokim\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\saokim\wp-settings.php(623): do_action('init')
+#4 C:\xampp\htdocs\saokim\wp-config.php(102): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\saokim\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\saokim\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\saokim\wp-content\themes\goclamweb\includes\setup.php on line 6
+
+2023-05-01T11:22:37+00:00 CRITICAL Uncaught Error: Call to undefined function getTheme_file_path() in C:\xampp\htdocs\saokim\wp-content\themes\goclamweb\includes\setup.php:6
+Stack trace:
+#0 C:\xampp\htdocs\saokim\wp-includes\class-wp-hook.php(308): glw_theme_setup('')
+#1 C:\xampp\htdocs\saokim\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\saokim\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\saokim\wp-settings.php(623): do_action('init')
+#4 C:\xampp\htdocs\saokim\wp-config.php(102): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\saokim\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\saokim\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\saokim\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\saokim\wp-content\themes\goclamweb\includes\setup.php on line 6
+
+2023-05-01T11:22:46+00:00 CRITICAL Uncaught Error: Call to undefined function getTheme_file_path() in C:\xampp\htdocs\saokim\wp-content\themes\goclamweb\includes\setup.php:6
+Stack trace:
+#0 C:\xampp\htdocs\saokim\wp-includes\class-wp-hook.php(308): glw_theme_setup('')
+#1 C:\xampp\htdocs\saokim\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\saokim\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\saokim\wp-settings.php(623): do_action('init')
+#4 C:\xampp\htdocs\saokim\wp-config.php(102): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\saokim\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\saokim\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\saokim\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\saokim\wp-content\themes\goclamweb\includes\setup.php on line 6
+
